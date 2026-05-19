@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- ISG Developer</p>
+<p align="left">- BackEnd Developer<br>- TCU Developer</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- BackEnd Developer<br>- TCU Developer</p>
+<p align="left">- FullStack Developer<br>- TCU Developer<br>- @Infinitoon</p>
 
 ###
 
